@@ -103,3 +103,5 @@
 * [Smoothlog](https://smoothlog.com/)
 * [shiveenp.com](https://shiveenp.com)
 * [IcePlugins](https://iceplugins.xyz)
+* [Monologue](https://gfyxh.github.io/)
+* [Monologue](https://guo_feiyu.gitee.io/)
